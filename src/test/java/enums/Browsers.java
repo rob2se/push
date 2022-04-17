@@ -5,5 +5,5 @@ package enums;
  */
 
 public enum Browsers {
-    Chrome,Firefox,IE,BrowserStack
+    Chrome,Firefox,IE
 }
